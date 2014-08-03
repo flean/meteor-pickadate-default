@@ -1,0 +1,8 @@
+{
+	"name": "pickadateDefault",
+	"description": "The mobile-friendly, responsive, and lightweight date &amp; time picker by Amsul.",
+	"homepage": "https://github.com/flean/meteor-pickadate-default",
+	"author": "Reynaldo Reyna",
+	"version": "3.5.3",
+	"git": "https://github.com/flean/meteor-pickadate-default.git"
+}
